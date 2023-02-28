@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/maria-namira/evevnts-backend/issues"
   },
-  "homepage": "https://github.com/maria-namira/evevnts-backend#readme"
+  "homepage": "https://github.com/maria-namira/evevnts-backend#readme",
+  "dependencies": {
+    "koa": "^2.14.1",
+    "koa-body": "^6.0.1",
+    "koa-cors": "^0.0.16",
+    "routes": "^2.1.0",
+    "websocket": "^1.0.34"
+  }
 }
