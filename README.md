@@ -1,5 +1,3 @@
-#### Deployment:  <a href="https://maria-namira.github.io/events1.git/">Github Pages</a>
-
 #### Frontend:  <a href="https://github.com/maria-namira/events1.git">Repository</a>
 
 
