@@ -1,8 +1,6 @@
-#### Deployment:  <a href="https://sergius92739.github.io/ahj-8.1-sse-ws_frontend/">Github Pages</a>
+#### Frontend:  <a href="https://github.com/maria-namira/events1.git">Repository</a>
 
-#### Frontend:  <a href="https://github.com/Sergius92739/ahj-8.1-sse-ws_frontend">Repository</a>
 
-#### Server:  <a href="https://ahj-8-1-sse-ws-sergius.herokuapp.com/">Heroku</a>
 
 ---
 
